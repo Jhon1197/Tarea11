@@ -1,4 +1,4 @@
-let monto =parseInt(prompt/("Digite por favor el monto de su compra"));
+let monto =parseInt(prompt("Digite por favor el monto de su compra"));
 if(monto >100 ){
 
     let porcentaje = monto * 0.9;
