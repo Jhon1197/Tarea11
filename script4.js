@@ -3,5 +3,5 @@ let adivina = prompt("Adivina un numero entre 1 y 10");
 if(adivina==numero){
     document.write("Felicidades, adivinaste el número");
 }else {
-    document.write("Lo siento el número era", numero);
+    document.write("Lo siento el número era","<br>", numero);
 }
